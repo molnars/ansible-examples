@@ -1,7 +1,8 @@
 [webservers]
-webserver.local
+192.168.3.185
+192.168.3.183
 
 [dbservers]
-dbserver.local
+192.168.3.181
 
 
